@@ -1,7 +1,7 @@
 
 # ÁLCOOL & GASOLINA
 
-Este foi o meu primeiro contato com o framework React Native. É um projeto bem simples, ele recebe duas entradas do usuário, o preço da gasolina e do álcool, baseado nestes dados ele cálcula qual é a melhor opção de combustível.
+Este foi o meu primeiro contato com o framework React Native. É um projeto bem simples, ele recebe duas entradas do usuário: o preço da gasolina e o preço do álcool (por litro), baseado nestes dados ele calcula qual é a melhor opção para comprar.
 
 
 ## 🚀 Sobre mim
