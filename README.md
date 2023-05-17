@@ -1,0 +1,32 @@
+
+# ÁLCOOL & GASOLINA
+
+Este foi o meu primeiro contato com o framework React Native. É um projeto bem simples, ele recebe duas entradas do usuário, o preço da gasolina e do álcool, baseado nestes dados ele cálcula qual é a melhor opção de combustível.
+
+
+## 🚀 Sobre mim
+Eu sou um desenvolvedor full-stack mobile. Trabalhei em dois projetos na empresa INVIA. Gosto de desafios, sou perspicaz e tenho força de vontade. 
+
+
+## Screenshots
+
+![App Screenshot](https://lh3.googleusercontent.com/cjI0hSU--PDsVlN2WjvG9ttTpBIe46bNPsUQ2jn-1eJmIXI7-KHKaf-2B9Mz2elqyiC7oaPwbJR81u3YOjahgem4tG_lcEeIDpisLWr9NttKRV7ocNl7GpREuKslbVjDeXLVLPndOGr_piq7feHEv2LXUqk-gQMd4F7qEjgavuUwkoiI8GzIhirTQtJSFvX3tzHfRGJI3893AGqSZjgrxsrUktmlrbpwMHQtJncSrytj4iDwuvDBizWAzK4UPwnQepdjPkDP9I_Z-itUBTRv6r9tRQgg9anvFWNilY3d0ZjbGd4LiU6a40tFTsc8fSvm8VNzJZgnk6Jtl914HWiOokPc8-9llTP_i7iLnVrfyWJNqmR58UksNqcU28NHS5zsSsL4gSlIqOyvhpG5BjS6nuuXAYA4TZd4rPrBzdyyfKyXXRJkt4MLKn7r2qC-TBt6_ZSqYnNk2bz_3s7JbPu6KBuzwuNJ9sW11a8vEgH1gjCdsvJqXvJ3dZPDqJY8ogZ_NnNDgkk0t0tzLEnzy3YkxZq5LinQw6kNzeUshFX5yTJen4RNIp6jFxCGBG9SqOkhXrJGcrPNHBb6gQje0j_9JXb-91FA2eeDbxag56gvQZPlhdakDNqautNcXdjAMvXMxLCka2-C67sPuFCaUEdRSZBAxZ69M8qiSjbnw76QDUJWsR0ycxS5j2fjnKF-LjWdC1pofhbsRitMlqpLiD83ljVhJlna0PD9V3KJsq7IA7QkbUppjgljDvo9Vg7N4mWQVmc1j1A_Jlfd3BgGb1cfUph3tUipZ-bs3kyWgZwxkuu0Rf3jWm7XaA9drp9nbof71qauXfmQIRUv2qfvS9tZVOA0fnDois_KUCDho5an09d7Qcltn3f6scODvgJyiDHSKSf1bw4Fge6WQPLyDPne6ha4dCfjB-EthSL3oVD80pTw=w296-h570-s-no?authuser=0)
+
+![App Screenshot](https://lh3.googleusercontent.com/vAmrTPqcIt7uRaThKcQT0OEzpaZtRzm2a2lwlpPJ4_N_mER_4DQme4RFzNClIzGQsQpl4_hpSYbQTaYf64YfuEM72GE6Ypkv6S4A_ANz6fV68A0ZB3ixjh2kDSy_DObSx9T2O3rNptlcfOH7kt07Cl43TUfi3yfrSJ9igz3LQFlm7xoa0R76eHsCEFO24kxlCPmsOShrTMw6KioElADfl8keMcnk1UI7xTh_a7G3xwlVjYHvC-5yNSOPfgcwpYeOWnDXBVKNf76u3pVa9OXyCr8YLc37RITtezyAJ2Lw--H4jpwkM8fngfV9Vg4X6SQ_csuKh9KyFTxpK4NTmLaJHz0zw0nPa64VSSYiFYbo0CW3RwLsn0k6uuWD58U5UEftxyXMsasVCqmbCmJRGtHcbVj3uB1W9PsIGNW7jbGemqI9BSFRtgxf-mdyS1hmJTW7l-JOeVvgrFBXmf-HdQMaJDOQa9SLW6jpYqQ9DR50ZJqLyZFFcu5uFf8J2n6BgoEA4hjSzEI0jHbHjZkw_eIJ-7n0bpEzQ5z_Szo32xTHlykWSTK4m9hCY48sq6QCnhMtPsIHU-oVYg3-_qvDy6CC0aqazRcnjt8PFjeV8O9woP8PmopFies500raoysMUvUauDQV3cPj8_rIWF1FA6FWFa4rDEX5NGIAKKQlRA2CG6o1N9qjKlY7gX7446jwj9i_PoYlUhsXgnLuoGNqL4MSoGy_dmvMYN6TVKcJ_G4bicLKqXXklrdF-9WTa9KjFMgKpVjT6aPX4JIToSNUvcrjEV40I_QpbO_sIMii-OPxSrEaxJszyGssSXJSeD9A73ZvIk3gK7-ftSRGt-oio3mH4IW_zwImfsiCzhd6KgxeV60_RiaeQI0iJRgcPzXjiK51BpoR4mobd6DbpKTJDbKe6GZ3oPGrVHU038nRonYesZKK=w294-h564-s-no?authuser=0)
+
+
+## Funcionalidades
+
+- Recebe duas entradas do usuário;
+- Calcula qual das opções é a melhor escolha.
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, PHP, Java, Flutter....
+
+
+## Autores
+
+- [@MarcosFr98](https://github.com/Marcosfr98)
+
+
